@@ -11,4 +11,4 @@ If you have any kind of doubt regarding to your task you can ask in our Whatsapp
 
 After the completion of this 2 weeks process you will have a Personal Interview round (more information regarding to you PI will be provided later).
 
-___________BEST OF LUCK ___________
+                                              ___________BEST OF LUCK ___________
