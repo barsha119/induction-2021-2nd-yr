@@ -25,8 +25,8 @@ The app must have following features:-<br>
 <li>All users screen (Display all users with name and mail id only).</li>
 <li>Signin Page must contain forget password button.</li>
 
-</ol> <br>
+</ol> 
 
-#Task Overview
+# Task Overview
 
 <img src="./Task_Overview.jpeg" >
