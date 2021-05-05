@@ -16,4 +16,4 @@ Steps to submit the solution :
 In case of any difficulty feel free to ask in Enigma’s discord server : <a href="https://discord.gg/Qwa6gtWP">https://discord.gg/Qwa6gtWP</a>
 
 
-                                               ___________BEST OF LUCK ___________
+                                 ___________BEST OF LUCK ___________
