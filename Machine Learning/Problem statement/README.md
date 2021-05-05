@@ -1,9 +1,9 @@
 ### Problem statement
-Go through the Problem statement.pdf provided above that contains all details related to environment setup, dataset to be used.
+Go through the Problem statement.pdf as provided above. It contains all necessary details related to the task (environment setup, dataset to be used,steps to be followed, etc.).
 
 
 ### Task Submission
-You need to submit your solutions in  Your_Name.ipynb format.
+You need to submit your solutions in  Your_Name.ipynb format. (For more details refer Problem statement.pdf i.e, provided above)
 
 Steps to submit the solution : 
 * Fork the repository : <a href="https://github.com/EnigmaVSSUT/induction-2021-2nd-yr">https://github.com/EnigmaVSSUT/induction-2021-2nd-yr</a>
