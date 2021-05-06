@@ -4,7 +4,7 @@
 **Build a Dogs Breed App (showing dogs various breeds name and image)**.<br>
 <br>
 The following API provides various information on the breeds of dogs:-
-https://dog.ceo/dog-api/documentation/
+[Dog-API](https://dog.ceo/dog-api/documentation/)
 <br>
 The app must have following features:-<br>
 
@@ -16,4 +16,5 @@ The app must have following features:-<br>
 
 </ol>
 <br>
-Note :- You can implement any library of your choice.
+
+**Note** :- You can implement any library of your choice.
