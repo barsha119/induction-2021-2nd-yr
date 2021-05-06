@@ -4,4 +4,4 @@ Flutter is Google's new open source technology for creating native Android and i
 #### Task Submission:
 1. Have a look inside the "Task" folder. Task overview is provided there.
 2. Fork this repository and make a folder by your "Name" in the [Task submission](./Task%20submission) folder.
-3. Inside your designated folder upload the source code of your Application and a few screenshots of your UI.
+3. Inside your designated folder upload the source code of your Application creating a folder named `source code` and a few screenshots of your UI inside a folder name `UI`.
