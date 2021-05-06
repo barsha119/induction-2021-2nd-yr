@@ -23,4 +23,4 @@ Build a `Quotes API` using PHP. <br>
 
 1. Fork this repository and make a folder by your "Name" in the [Task Submission](../Task%20Submission) folder.
 2. Inside your designated folder upload the `source code` of your Application and a `README` explaining briefly your Query Parameters along with the **link** where it is being hosted.
-3. Create `Pull request` with the **link** in the description.
+3. Create a `Pull request` with the **link** in the description.
