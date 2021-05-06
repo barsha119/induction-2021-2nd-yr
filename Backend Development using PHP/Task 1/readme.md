@@ -1,6 +1,6 @@
 ## Problem Statement
 
-Build a `Quotes API` using Node. <br>
+Build a `Quotes API` using PHP. <br>
 
 - Endpoint should take minimum **Two** number of **Query**.
 - Query Parameters :
