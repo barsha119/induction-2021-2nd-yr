@@ -5,11 +5,11 @@
 ## Procedure
 You will be allotted total number of **two Tasks** each having a time duration of **one week**.
 
-### Task 1 (6 - 13 may)
+### Task 1 (7 - 14 may)
 
 This will test your basic of node and its uses. To view Task 1 [click Here](./Task%201/README.md).
 
-### Task 2 (13 - 20 may)
+### Task 2 (14 - 21 may)
 
 This will test your understanding on DBMS using node. To view Task 2 [click Here](./Task%202/README.md).
 
