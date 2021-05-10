@@ -17,3 +17,5 @@ Using Node js I have made a Qoutes API
               2. For 10 number of qoutes, search [http://localhost:3000/qoutes/number?num=3](http://localhost:3000/qoutes/number?num=10)<br>
               3. For Inspirational qoutes, search [http://localhost:3000/qoutes/number?num=3](http://localhost:3000/qoutes/catregory?cat=inspirational)<br>
               4. For Funny qoutes, search [http://localhost:3000/qoutes/number?num=3](http://localhost:3000/qoutes/catregory?cat=funny)<br>
+
+# Qoutes can be seen  in the terminal
