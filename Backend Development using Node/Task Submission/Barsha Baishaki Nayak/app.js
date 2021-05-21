@@ -31,7 +31,7 @@ app.post("/", function (req, res) {
   var item = req.body.flexRadioDefault;
   var number = req.body.num;
 
-  if (number > 10) {
+  if (number > 10 || number < 1) {
 
     res.render('list', { qlist: '*Maximum 10 Inputs is allowed' });
 
