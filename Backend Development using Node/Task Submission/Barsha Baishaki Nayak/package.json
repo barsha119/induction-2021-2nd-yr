@@ -1,16 +1,21 @@
 {
-  "name": "qoutes",
+  "name": "qoutesapi",
   "version": "1.0.0",
-  "main": "qoutes.js",
-  "dependencies": {
-    "express": "^4.17.1",
-    "nodemon": "^2.0.7"
-  },
-  "devDependencies": {},
+  "description": "",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "engines": {
+    "node": "14.15.5"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-validator": "^6.11.1",
+    "mongoose": "^5.12.10",
+    "validator": "^13.6.0"
+  }
 }
